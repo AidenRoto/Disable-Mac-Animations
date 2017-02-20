@@ -3,6 +3,11 @@ How to turn off all animations on OS X
 ---
 A compressed code only version of the snippets below can be found in the terminal-commands file. You can copy and paste this straight into terminal. Relanuch finder once done.
 
+To undo:
+* Change `false` values to `true`
+* Change `true` values to `false`
+* Change `-float 0` to `-float 1`
+
 Credit: http://apple.stackexchange.com/questions/14001/how-to-turn-off-all-animations-on-os-x
 
 ####opening and closing windows and popovers
