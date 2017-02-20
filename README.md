@@ -1,5 +1,7 @@
 ## Disable-Mac-Animations
 How to turn off all animations on OS X
+---
+A compressed code only version of the snippets below can be found in the terminal-commands file. You can copy and paste this straight into terminal. Relanuch finder once done.
 
 Credit: http://apple.stackexchange.com/questions/14001/how-to-turn-off-all-animations-on-os-x
 
