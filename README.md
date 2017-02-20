@@ -47,9 +47,11 @@ defaults write com.apple.dock autohide-delay -float 0`
 `defaults write com.apple.finder DisableAllAnimations -bool true`
 
 ####sending messages and opening windows for replies
-`defaults write com.apple.Mail DisableSendAnimations -bool true
-defaults write com.apple.Mail DisableReplyAnimations -bool true`
+`defaults write com.apple.Mail DisableSendAnimations -bool true`
+`defaults write com.apple.Mail DisableReplyAnimations -bool true`
 
-Also Reduce Sierra Animation
+---
 
-![reduce sierra animation](https://i.imgur.com/yEHJjpd.jpg)
+Also Reduce Motion
+
+![reduce sierra motion](https://i.imgur.com/yEHJjpd.jpg)
