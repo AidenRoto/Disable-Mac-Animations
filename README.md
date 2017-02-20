@@ -30,8 +30,8 @@ Credit: http://apple.stackexchange.com/questions/14001/how-to-turn-off-all-anima
 `defaults write -g NSBrowserColumnAnimationSpeedMultiplier -float 0`
 
 ####showing the Dock
-`defaults write com.apple.dock autohide-time-modifier -float 0`
-`defaults write com.apple.dock autohide-delay -float 0`
+`defaults write com.apple.dock autohide-time-modifier -float 0
+defaults write com.apple.dock autohide-delay -float 0`
 
 ####showing and hiding Mission Control, command+numbers
 `defaults write com.apple.dock expose-animation-duration -float 0`
@@ -47,9 +47,9 @@ Credit: http://apple.stackexchange.com/questions/14001/how-to-turn-off-all-anima
 `defaults write com.apple.finder DisableAllAnimations -bool true`
 
 ####sending messages and opening windows for replies
-`defaults write com.apple.Mail DisableSendAnimations -bool true`
-`defaults write com.apple.Mail DisableReplyAnimations -bool true`
+`defaults write com.apple.Mail DisableSendAnimations -bool true
+defaults write com.apple.Mail DisableReplyAnimations -bool true`
 
-Also
+Also Reduce Sierra Animation
 
 ![reduce sierra animation](https://i.imgur.com/yEHJjpd.jpg)
