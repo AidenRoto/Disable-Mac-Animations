@@ -49,3 +49,7 @@ Credit: http://apple.stackexchange.com/questions/14001/how-to-turn-off-all-anima
 ####sending messages and opening windows for replies
 `defaults write com.apple.Mail DisableSendAnimations -bool true`
 `defaults write com.apple.Mail DisableReplyAnimations -bool true`
+
+Also
+
+![reduce sierra animation](https://i.imgur.com/yEHJjpd.jpg)
