@@ -1,4 +1,4 @@
-Disable-Mac-Animations
+## Disable-Mac-Animations
 How to turn off all animations on OS X
 
 Credit: http://apple.stackexchange.com/questions/14001/how-to-turn-off-all-animations-on-os-x
